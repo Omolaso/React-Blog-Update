@@ -1,0 +1,13 @@
+{
+  "posts": [
+    {
+      "id": "031d725-4320-32a3-f733-21cfd5cd7867",
+      "title": "Hello World",
+      "author": "typicode"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
